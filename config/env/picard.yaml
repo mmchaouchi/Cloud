@@ -1,0 +1,9 @@
+channels:
+- bioconda
+- conda-forge
+- default
+dependencies:
+- picard==2.18.25
+- openjdk >=8
+- python
+- samtools==1.9
